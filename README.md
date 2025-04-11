@@ -1,7 +1,7 @@
-<table align="center" style="width: 100%;">
+<table align="center" style="border: none;">
   <tr>
-    <td style="text-align: center;">
-      <img src="https://i.imgur.com/1RsDbpf.gif" style="width: 100%; max-width: 100%;" alt="bokemon...">
+    <td style="text-align: center; border: none;">
+      <img src="https://i.imgur.com/1RsDbpf.gif" style="width: 250px; border: none;" alt="bokemon...">
     </td>
   </tr>
 </table>
