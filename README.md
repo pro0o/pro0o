@@ -6,7 +6,7 @@
     <td style="padding-left: 32px; vertical-align: middle;">
       <samp style="font-size: 1.75em; line-height: 1.6; display: block;">
         <span style="display: block; margin-bottom: 0.4em;">wake up, filthyyyyyy!!!</span>
-        <a href="https://probin.me" target="_blank" style="color: #00ffcc; text-decoration: none;">→ www.probin.me</a>
+        <a href="https://probin.me" target="_blank" style="color: #00ffcc; text-decoration: none;"> >>>>www.probin.me</a>
       </samp>
     </td>
   </tr>
